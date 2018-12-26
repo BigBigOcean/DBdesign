@@ -2,4 +2,4 @@
 1.改数据库密码：\phpStudy\PHPTutorial\WWW\tp5\application\database.php  
 2.改数据库密码：\phpStudy\PHPTutorial\WWW\dbfinal\config.ini  
 3.改数据库密码：\phpStudy\PHPTutorial\WWW\cx\services.php -143：$con = mysql_connect("localhost","root","root");  
-4.改localhost端口：countDown(10,'//localhost:81/tp5/public/');
+4.改localhost端口：\phpStudy\PHPTutorial\WWW\tp5\application\thanks\view\index\thanks/html：countDown(10,'//localhost:81/tp5/public/');
